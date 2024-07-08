@@ -4,7 +4,7 @@ O Projeto é sobre um Dataset extraído do Kaggle sobre o desgaste dos funcioná
 # DATASET
 Foram coletados dados de 59.598 funcionários que responderam várias questões pessoais como; idade, sexo, renda mensal entre outras e questões como, por exemplo: tamanho da empresa, quantidade de anos na empresa, quantidade de promoções.
 
-# Análise Exploratória dos Dados
+# ANÁLISE EXPLORATÓRIA DOS DADOS
 Realizei análises descritivas dos dados, correlações, análises univariadas e bivariadas respondendo 10 perguntas abaixo;
 1. Qual a relação entre a idade dos funcionários e a decisão de continuar na empresa?
 
