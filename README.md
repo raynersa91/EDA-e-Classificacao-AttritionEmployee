@@ -1,7 +1,7 @@
 # PROJETO
 ![Attrition](https://github.com/raynersa91/EDA-e-Classificacao-AttritionEmployee/blob/main/employee-churn-original.png?raw=true)
 
-O Projeto é sobre um Dataset extraído do Kaggle sobre o desgaste dos funcionários de uma organização (saíram ou permaneceram na empresa). Fiz a análise exploratória dos dados buscando padrões e correlações que possa explicar a decisão de cada funcionário e, criei um modelo de classificação com acurácia de 76%.
+O Projeto é um Dataset extraído do Kaggle sobre o desgaste dos funcionários de uma organização (saíram ou permaneceram na empresa). Fiz a análise exploratória dos dados buscando padrões e correlações que possa explicar a decisão de cada funcionário e, criei um modelo de classificação com acurácia de 76%.
 
 # DATASET
 Foram coletados dados de 59.598 funcionários que responderam várias questões pessoais como; idade, sexo, renda mensal entre outras e questões como, por exemplo: tamanho da empresa, quantidade de anos na empresa, quantidade de promoções.
